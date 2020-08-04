@@ -1,8 +1,7 @@
 # Vinicius Passos Florencio
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+Sou apaixonado por resolver problemas utilizando a programação e aprender novas tecnologias. :computer:
 
  :iphone: &nbsp; acabei de terminar meu estágio na **Samsumg**
  <br/> :green_book: &nbsp; Buscando colaborar com meus estudos em projetos em usando React, Node, Java Spring boot e Android.
