@@ -1,16 +1,14 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-<!--
-**florencioVinicius/florencioVinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Vinicius Passos Florencio
 
-Here are some ideas to get you started:
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou um FullStack Developer :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ &nbsp; acabei de terminar meu estágio na **Samsumg**
+ <br/> : &nbsp; Buscando colaborar com meus estudos em projetos em usando React,, Java Spring boot e talves Android.
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, LoL e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADcius-passos-florencio-499b67115/)](https://www.linkedin.com/in/vin%C3%ADcius-passos-florencio-499b67115/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:florenciovinicius4403@gmail.com)](mailto:florenciovinicius4403@gmail.com)
