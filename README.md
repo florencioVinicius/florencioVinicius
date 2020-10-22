@@ -1,7 +1,7 @@
 # Vinicius Passos Florencio
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação e aprender novas tecnologias. :computer:
+Aprendendo novas tecnologias. :computer:
 
  <br/> :green_book: &nbsp; Buscando colaborar com meus estudos em projetos Java usando Spring boot.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, LoL e seriados no Netflix
